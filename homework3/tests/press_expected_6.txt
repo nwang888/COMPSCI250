@@ -1,0 +1,45 @@
+  0       out         motor                 0
+  0       out         warning               0
+
+  1re     out         motor                 0
+  1re     out         warning               0
+
+  2re     out         motor                 0
+  2re     out         warning               0
+
+  3re     out         motor                 1
+  3re     out         warning               1
+
+  4re     out         motor                 1
+  4re     out         warning               1
+
+  5re     out         motor                 1
+  5re     out         warning               1
+
+  6re     out         motor                 0
+  6re     out         warning               1
+
+  7re     out         motor                 0
+  7re     out         warning               1
+
+  8re     out         motor                 0
+  8re     out         warning               1
+
+  9re     out         motor                 1
+  9re     out         warning               1
+
+  10re    out         motor                 1
+  10re    out         warning               1
+
+  11re    out         motor                 1
+  11re    out         warning               1
+
+  12re    out         motor                 0
+  12re    out         warning               1
+
+  13re    out         motor                 0
+  13re    out         warning               1
+
+  14re    out         motor                 0
+  14re    out         warning               1
+

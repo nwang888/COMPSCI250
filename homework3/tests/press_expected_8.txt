@@ -1,0 +1,303 @@
+  0       out         motor                 0
+  0       out         warning               0
+
+  1re     out         motor                 0
+  1re     out         warning               0
+
+  2re     out         motor                 1
+  2re     out         warning               1
+
+  3re     out         motor                 1
+  3re     out         warning               1
+
+  4re     out         motor                 1
+  4re     out         warning               1
+
+  5re     out         motor                 0
+  5re     out         warning               1
+
+  6re     out         motor                 1
+  6re     out         warning               1
+
+  7re     out         motor                 0
+  7re     out         warning               1
+
+  8re     out         motor                 0
+  8re     out         warning               0
+
+  9re     out         motor                 0
+  9re     out         warning               0
+
+  10re    out         motor                 1
+  10re    out         warning               1
+
+  11re    out         motor                 0
+  11re    out         warning               1
+
+  12re    out         motor                 0
+  12re    out         warning               1
+
+  13re    out         motor                 1
+  13re    out         warning               1
+
+  14re    out         motor                 1
+  14re    out         warning               1
+
+  15re    out         motor                 0
+  15re    out         warning               1
+
+  16re    out         motor                 0
+  16re    out         warning               1
+
+  17re    out         motor                 0
+  17re    out         warning               1
+
+  18re    out         motor                 0
+  18re    out         warning               1
+
+  19re    out         motor                 0
+  19re    out         warning               1
+
+  20re    out         motor                 0
+  20re    out         warning               0
+
+  21re    out         motor                 0
+  21re    out         warning               0
+
+  22re    out         motor                 1
+  22re    out         warning               1
+
+  23re    out         motor                 1
+  23re    out         warning               1
+
+  24re    out         motor                 1
+  24re    out         warning               1
+
+  25re    out         motor                 0
+  25re    out         warning               1
+
+  26re    out         motor                 0
+  26re    out         warning               0
+
+  27re    out         motor                 1
+  27re    out         warning               1
+
+  28re    out         motor                 0
+  28re    out         warning               1
+
+  29re    out         motor                 1
+  29re    out         warning               1
+
+  30re    out         motor                 0
+  30re    out         warning               1
+
+  31re    out         motor                 0
+  31re    out         warning               1
+
+  32re    out         motor                 1
+  32re    out         warning               1
+
+  33re    out         motor                 0
+  33re    out         warning               1
+
+  34re    out         motor                 0
+  34re    out         warning               1
+
+  35re    out         motor                 0
+  35re    out         warning               0
+
+  36re    out         motor                 1
+  36re    out         warning               1
+
+  37re    out         motor                 0
+  37re    out         warning               1
+
+  38re    out         motor                 1
+  38re    out         warning               1
+
+  39re    out         motor                 0
+  39re    out         warning               1
+
+  40re    out         motor                 1
+  40re    out         warning               1
+
+  41re    out         motor                 1
+  41re    out         warning               1
+
+  42re    out         motor                 0
+  42re    out         warning               1
+
+  43re    out         motor                 1
+  43re    out         warning               1
+
+  44re    out         motor                 0
+  44re    out         warning               1
+
+  45re    out         motor                 0
+  45re    out         warning               1
+
+  46re    out         motor                 0
+  46re    out         warning               1
+
+  47re    out         motor                 0
+  47re    out         warning               0
+
+  48re    out         motor                 1
+  48re    out         warning               1
+
+  49re    out         motor                 0
+  49re    out         warning               1
+
+  50re    out         motor                 0
+  50re    out         warning               1
+
+  51re    out         motor                 0
+  51re    out         warning               1
+
+  52re    out         motor                 1
+  52re    out         warning               1
+
+  53re    out         motor                 0
+  53re    out         warning               1
+
+  54re    out         motor                 1
+  54re    out         warning               1
+
+  55re    out         motor                 1
+  55re    out         warning               1
+
+  56re    out         motor                 0
+  56re    out         warning               1
+
+  57re    out         motor                 0
+  57re    out         warning               1
+
+  58re    out         motor                 0
+  58re    out         warning               1
+
+  59re    out         motor                 0
+  59re    out         warning               1
+
+  60re    out         motor                 0
+  60re    out         warning               1
+
+  61re    out         motor                 0
+  61re    out         warning               1
+
+  62re    out         motor                 0
+  62re    out         warning               0
+
+  63re    out         motor                 0
+  63re    out         warning               0
+
+  64re    out         motor                 0
+  64re    out         warning               0
+
+  65re    out         motor                 0
+  65re    out         warning               0
+
+  66re    out         motor                 1
+  66re    out         warning               1
+
+  67re    out         motor                 0
+  67re    out         warning               1
+
+  68re    out         motor                 0
+  68re    out         warning               1
+
+  69re    out         motor                 1
+  69re    out         warning               1
+
+  70re    out         motor                 1
+  70re    out         warning               1
+
+  71re    out         motor                 1
+  71re    out         warning               1
+
+  72re    out         motor                 0
+  72re    out         warning               1
+
+  73re    out         motor                 0
+  73re    out         warning               1
+
+  74re    out         motor                 0
+  74re    out         warning               0
+
+  75re    out         motor                 0
+  75re    out         warning               0
+
+  76re    out         motor                 1
+  76re    out         warning               1
+
+  77re    out         motor                 1
+  77re    out         warning               1
+
+  78re    out         motor                 0
+  78re    out         warning               1
+
+  79re    out         motor                 0
+  79re    out         warning               0
+
+  80re    out         motor                 0
+  80re    out         warning               0
+
+  81re    out         motor                 1
+  81re    out         warning               1
+
+  82re    out         motor                 0
+  82re    out         warning               1
+
+  83re    out         motor                 0
+  83re    out         warning               1
+
+  84re    out         motor                 0
+  84re    out         warning               1
+
+  85re    out         motor                 0
+  85re    out         warning               1
+
+  86re    out         motor                 1
+  86re    out         warning               1
+
+  87re    out         motor                 0
+  87re    out         warning               1
+
+  88re    out         motor                 0
+  88re    out         warning               1
+
+  89re    out         motor                 0
+  89re    out         warning               1
+
+  90re    out         motor                 0
+  90re    out         warning               1
+
+  91re    out         motor                 0
+  91re    out         warning               1
+
+  92re    out         motor                 0
+  92re    out         warning               1
+
+  93re    out         motor                 0
+  93re    out         warning               1
+
+  94re    out         motor                 1
+  94re    out         warning               1
+
+  95re    out         motor                 0
+  95re    out         warning               1
+
+  96re    out         motor                 0
+  96re    out         warning               1
+
+  97re    out         motor                 0
+  97re    out         warning               1
+
+  98re    out         motor                 0
+  98re    out         warning               1
+
+  99re    out         motor                 0
+  99re    out         warning               1
+
+  100re   out         motor                 0
+  100re   out         warning               1
+

@@ -1,0 +1,6 @@
+tests/*_actual_*.txt*
+tests/*_diff_*.txt
+byseven
+recurse
+PizzaCalc
+

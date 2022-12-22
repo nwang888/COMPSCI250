@@ -1,0 +1,9 @@
+FILE *fr
+fr = fopen(argv[1],"r");
+
+float f;
+if (fgets(line,100,fr) == 0) //if empty
+sscanf(line, "%s %f %f", name, &f, price)
+
+fscanf(fr, "%s %f %f", name, size, price); //-1 if empty
+fclose(fr);
